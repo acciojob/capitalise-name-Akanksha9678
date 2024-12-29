@@ -1,7 +1,7 @@
 //your JS code here. If required.
 function str(s) {
- s=s.toUpperCase()
+ s=s.toUpperCase();
 	return s;	
 }
-// const s = prompt("Enter String:");
-// alert(str(s));
+const s = prompt("Enter String:");
+alert(str(s));
