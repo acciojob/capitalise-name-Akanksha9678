@@ -1,5 +1,5 @@
 //your JS code here. If required.
-function str(s) {
+function str() {
 	var s=document.getElementById("fname").value;
 	return s.toUpperCase();	
 }
